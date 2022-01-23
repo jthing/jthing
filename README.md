@@ -2,7 +2,7 @@
 This is a grabbag of repositories for what ever I am working on.
 ## personaliae
 My name is John Thingstad. I am a programmer by trade, but also do electrical engeniering and mathematics.
-I mostly program in Python, C, C++, C#, Rust, raky(perl6)PHP, Go, JavaScript, Haskell, common-lisp, Wolfram. 
+I mostly program in Python, C, C++, C#, Rust, Raku(perl6), PHP, Go, JavaScript, Haskell, common-lisp, Wolfram. 
 A fan of hetogenous programming I choose a language depending on how suitable it is for the job I want to do.
 
 ## This cite
